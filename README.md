@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sahil Mishra
+# Hi 👋, I'm Sahil Raj
 
 ### Full Stack Developer | ECE @ IIIT Bhopal
 
@@ -6,7 +6,7 @@
 class SahilMishra:
 
     def __init__(self):
-        self.name = "Sahil Mishra"
+        self.name = "Sahil Raj"
         self.college = "IIIT Bhopal"
         self.branch = "Electronics & Communication Engineering"
         self.batch = 2027
