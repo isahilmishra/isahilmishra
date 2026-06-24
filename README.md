@@ -25,36 +25,10 @@ print(me.say_hi())
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
