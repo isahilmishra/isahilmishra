@@ -1,12 +1,12 @@
 # Hi 👋, I'm Sahil Raj
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/isahilmishra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+scalable+systems%2C+one+commit+at+a+time;Node.js+%7C+PostgreSQL+%7C+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&height=45&lines=Hi+there%2C+I'm+Sahil+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;I+build+scalable+backend+systems;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+System+Design" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=isahilmishra&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -30,7 +30,7 @@ print(me.say_hi())
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,postgres,sqlite,redis,prisma,git,github,vscode,postman,vercel,render,jest" />
 </p>
 
